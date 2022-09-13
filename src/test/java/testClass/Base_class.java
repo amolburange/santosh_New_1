@@ -26,6 +26,7 @@ public class Base_class {
 	public void Object_creation()
 	{
 		LP = new Login_page(driver);
+		System.out.println("Hi akshay");
 	}
 
 }

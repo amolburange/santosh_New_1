@@ -10,6 +10,7 @@ public class Login_test extends Base_class{
 		LP.Send_username();
 		LP.Password();
 		LP.Click_login_button();
+		System.out.println("Hi Amol");
 	}
 
 }
