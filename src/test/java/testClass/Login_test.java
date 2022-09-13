@@ -13,7 +13,7 @@ public class Login_test extends Base_class{
 		System.out.println("Hi Amol");
 		int r = 30-20;
 		System.out.println(r);
-		System.out.println("hello");
+		System.out.println("hello2");
 	}
 	
 
