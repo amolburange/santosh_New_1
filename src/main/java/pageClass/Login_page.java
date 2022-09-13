@@ -39,4 +39,9 @@ public void Click_login_button()
 	login_button.click();
 	System.out.println("Hi santosh");
 }
+public void add()
+{
+	int c =10+20;
+	System.out.println(c);
+}
 }
