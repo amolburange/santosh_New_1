@@ -11,8 +11,8 @@ public class Login_test extends Base_class{
 		LP.Password();
 		LP.Click_login_button();
 		System.out.println("Hi Amol");
-		int h = 30-20;
-		System.out.println(h);
+		int r = 30-20;
+		System.out.println(r);
 	}
 
 }
